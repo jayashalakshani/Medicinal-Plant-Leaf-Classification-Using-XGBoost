@@ -23,7 +23,11 @@ Histograms: The distribution of leaf shapes was plotted using ggplot2 to underst
 ![image](https://github.com/user-attachments/assets/7a005b9a-bdee-440f-bdc5-3cd919d01ac8)
 
 Word Clouds: A word cloud was generated from the Family_Name column to visualize the most common family names.
+![image](https://github.com/user-attachments/assets/297834ea-d9d5-427c-a193-731990f5dc0d)
+
 Bar Charts: The distribution of leaf shapes and edges was displayed using bar charts, showing the composition by leaf shape and edge type.
+![image](https://github.com/user-attachments/assets/5ba5095a-71ac-46a7-8ca4-7f5bff82f53d)
+
 Model Training:
 An XGBoost model was trained to classify the plant species. The training involved:
 
